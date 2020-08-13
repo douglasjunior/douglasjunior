@@ -19,5 +19,4 @@
 ### Android
 
 [![Android Simple Tooltip](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=android-simple-tooltip)](https://github.com/douglasjunior/android-simple-tooltip)
-
 [![Android Bluetooth Library](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=AndroidBluetoothLibrary)](https://github.com/douglasjunior/AndroidBluetoothLibrary)
