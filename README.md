@@ -1,4 +1,11 @@
-![Github status](https://github-readme-stats.vercel.app/api?username=douglasjunior&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)
+## Github stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=douglasjunior&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)
+
+## My public repos
+
+[![React Native Keyboard Manager](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-keyboard-manager)](https://github.com/douglasjunior/react-native-keyboard-manager)
+
 
 <!--
 **douglasjunior/douglasjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
