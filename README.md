@@ -9,6 +9,7 @@
 [![React Native Get Location](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-get-location)](https://github.com/douglasjunior/react-native-get-location)
 [![React Native rEcaptcha That Works](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-recaptcha-that-works)](https://github.com/douglasjunior/react-native-recaptcha-that-works)
 [![React Native Easy Bluetooth](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-easybluetooth-le)](https://github.com/douglasjunior/react-native-easybluetooth-le)
+[![React Native NotiFREE](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-notifree)](https://github.com/douglasjunior/react-native-notifree)
 
 ## React JS
 
