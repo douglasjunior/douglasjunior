@@ -1,5 +1,8 @@
 [![Github stats](https://github-readme-stats.vercel.app/api?username=douglasjunior&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/douglasjunior)
 
+[![Github trophy](
+https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)](https://github.com/douglasjunior)
+
 ## React Native
 
 [![React Native Keyboard Manager](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-keyboard-manager)](https://github.com/douglasjunior/react-native-keyboard-manager)
