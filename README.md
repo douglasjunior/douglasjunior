@@ -9,7 +9,6 @@ https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)]
 [![React Native Simple Dialogs](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-simple-dialogs&theme=darcula)](https://github.com/douglasjunior/react-native-simple-dialogs)
 [![React Native Get Location](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-get-location&theme=darcula)](https://github.com/douglasjunior/react-native-get-location)
 [![React Native rEcaptcha That Works](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-recaptcha-that-works&theme=darcula)](https://github.com/douglasjunior/react-native-recaptcha-that-works)
-[![React Native Easy Bluetooth](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-easybluetooth-le&theme=darcula)](https://github.com/douglasjunior/react-native-easybluetooth-le)
 
 ## React JS
 
