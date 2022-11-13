@@ -3,6 +3,8 @@
 [![Github trophy](
 https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)](https://github.com/douglasjunior)
 
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,css,html,swift,java,kotlin,webpack,jenkins,androidstudio,electron,jest,nextjs,prisma,graphql,redux,sass,linux,docker,mongodb,mysql,postgres,github)](https://skillicons.dev)
+
 ## React Native
 
 [![React Native Keyboard Manager](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-keyboard-manager&theme=darcula)](https://github.com/douglasjunior/react-native-keyboard-manager)
