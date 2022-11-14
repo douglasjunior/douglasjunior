@@ -16,6 +16,10 @@ https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)]
 
 [![React rEcaptcha That Works](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-recaptcha-that-works&theme=darcula)](https://github.com/douglasjunior/react-recaptcha-that-works)
 
+## Node JS
+
+[![Ignore dependency postinstall scripts](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=ignore-dependency-scripts&theme=darcula)](https://github.com/douglasjunior/ignore-dependency-scripts)
+
 ## Android
 
 [![Android Simple Tooltip](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=android-simple-tooltip&theme=darcula)](https://github.com/douglasjunior/android-simple-tooltip)
