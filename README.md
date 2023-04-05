@@ -12,6 +12,7 @@ https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)]
 [![React Native Get Location](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-get-location&theme=darcula)](https://github.com/douglasjunior/react-native-get-location)
 [![React Native rEcaptcha That Works](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-recaptcha-that-works&theme=darcula)](https://github.com/douglasjunior/react-native-recaptcha-that-works)
 [![React Native Pdf Renderer](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-pdf-renderer&theme=darcula)](https://github.com/douglasjunior/react-native-pdf-renderer)
+[![React Native Gradient Shimmer](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-gradient-shimmer&theme=darcula)](https://github.com/douglasjunior/react-native-gradient-shimmer)
 
 ## React JS
 
