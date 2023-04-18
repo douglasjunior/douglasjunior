@@ -1,3 +1,4 @@
+![](https://hit.yhype.me/github/profile?user_id=1512341)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=douglasjunior&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/douglasjunior)
 
 [![Github trophy](
