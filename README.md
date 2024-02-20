@@ -1,3 +1,15 @@
+Hi 👋!
+
+I'm Douglas Nassif, a software engineer passionate about technology and the art of software development. I graduated in Internet Systems Technology at UTFPR, and I've been on this software development journey since 2010.
+
+Throughout my career, I've explored a wide variety of technologies across different domains, including backend, frontend, mobile, and embedded systems. In recent years, I've particularly focused on JavaScript/TypeScript, React, React Native, and NodeJS.
+
+During this time, I've also been involved in creating and maintaining some open-source packages on GitHub, where I dedicate a good portion of my free time.
+
+Currently, I hold the position of Lead Software Development Engineer at DB1, where I lead teams on projects ranging from fintechs to specialized systems for precision agriculture.
+
+---
+
 ![](https://hit.yhype.me/github/profile?user_id=1512341)
 [![Github stats](https://github-readme-stats.vercel.app/api?username=douglasjunior&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/douglasjunior)
 
