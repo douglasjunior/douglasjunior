@@ -1,3 +1,7 @@
+
+![](https://hit.yhype.me/github/profile?user_id=1512341)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=douglasjunior&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/douglasjunior)
+
 Hi 👋!
 
 I'm Douglas Nassif, a software engineer passionate about technology and the art of software development. I graduated in Internet Systems Technology at UTFPR, and I've been on this software development journey since 2010.
@@ -8,15 +12,6 @@ During this time, I've also been involved in creating and maintaining some open-
 
 Currently, I hold the position of Lead Software Development Engineer at DB1, where I lead teams on projects ranging from fintechs to specialized systems for precision agriculture.
 
----
-
-![](https://hit.yhype.me/github/profile?user_id=1512341)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=douglasjunior&count_private=true&show_icons=true&theme=darcula&include_all_commits=true)](https://github.com/douglasjunior)
-
-[![Github trophy](
-https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)](https://github.com/douglasjunior)
-
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,css,html,swift,java,kotlin,webpack,jenkins,androidstudio,electron,jest,nextjs,prisma,graphql,redux,sass,linux,docker,mongodb,mysql,postgres,github)](https://skillicons.dev)
 
 ## React Native
 
@@ -43,3 +38,10 @@ https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)]
 ## Electron
 
 [![E-Mage](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=emage&theme=darcula)](https://emage.js.org)
+
+--- 
+
+[![Github trophy](
+https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)](https://github.com/douglasjunior)
+
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,css,html,swift,java,kotlin,webpack,jenkins,androidstudio,electron,jest,nextjs,prisma,graphql,redux,sass,linux,docker,mongodb,mysql,postgres,github)](https://skillicons.dev)
