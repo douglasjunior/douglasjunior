@@ -21,6 +21,7 @@ Currently, I hold the position of Lead Software Development Engineer at DB1, whe
 [![React Native rEcaptcha That Works](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-recaptcha-that-works&theme=darcula)](https://github.com/douglasjunior/react-native-recaptcha-that-works)
 [![React Native Pdf Renderer](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-pdf-renderer&theme=darcula)](https://github.com/douglasjunior/react-native-pdf-renderer)
 [![React Native Gradient Shimmer](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-gradient-shimmer&theme=darcula)](https://github.com/douglasjunior/react-native-gradient-shimmer)
+[![React Native App Lifecycle](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=react-native-applifecycle&theme=darcula)](https://github.com/douglasjunior/react-native-applifecycle)
 
 ## React JS
 
