@@ -40,9 +40,13 @@ Currently, I hold the position of Lead Software Development Engineer at DB1, whe
 
 [![E-Mage](https://github-readme-stats.vercel.app/api/pin/?username=douglasjunior&repo=emage&theme=darcula)](https://emage.js.org)
 
+
+
 --- 
 
 [![Github trophy](
 https://github-profile-trophy.vercel.app/?username=douglasjunior&theme=onedark)](https://github.com/douglasjunior)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript,typescript,css,html,swift,java,kotlin,webpack,jenkins,androidstudio,electron,jest,nextjs,prisma,graphql,redux,sass,linux,docker,mongodb,mysql,postgres,github)](https://skillicons.dev)
+
+![](https://komarev.com/ghpvc/?username=douglasjunior)
