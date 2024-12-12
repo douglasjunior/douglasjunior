@@ -10,7 +10,7 @@ Throughout my career, I've explored a wide variety of technologies across differ
 
 During this time, I've also been involved in creating and maintaining some open-source packages on GitHub, where I dedicate a good portion of my free time.
 
-Currently, I hold the position of Lead Software Development Engineer at DB1, where I lead teams on projects ranging from fintechs to specialized systems for precision agriculture.
+Currently, I hold the position of Staff Software Development Engineer at DB1, where I lead teams on projects ranging from fintechs to specialized systems for precision agriculture.
 
 
 ## React Native
